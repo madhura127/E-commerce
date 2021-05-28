@@ -1,0 +1,48 @@
+.row2{
+  padding: 20px 0;
+}
+
+
+
+.feature{
+  color:black ;
+  background-image : url( "https://wallpaperaccess.com/full/2259431.jpg") ; 
+  background-attachment : fixed ;
+   
+  }
+
+.text-center{
+  color:black ;
+}
+
+h6.text-center{
+  color : white;
+}
+
+#footer_section{
+  background-color: black;
+  
+}
+
+.add{
+  color: white;
+  text-align: left;
+  padding : 20px 0;
+}
+
+.footer_title , .footer_links {
+  color: white;
+
+}
+
+h5{
+  color: black;
+}
+
+
+
+
+  
+  
+  
+  
